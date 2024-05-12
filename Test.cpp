@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <conio.h>
 #include <algorithm>
-#include <windows.h>
+#include <windows.>
 #include <string>
 #include <fstream>
 
